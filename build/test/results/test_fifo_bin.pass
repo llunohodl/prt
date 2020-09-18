@@ -1,0 +1,22 @@
+---
+:source:
+  :path: test
+  :file: test_fifo_bin.c
+:successes:
+- :test: test_fifo_put_get_byte
+  :line: 15
+  :message: ''
+  :unity_test_time: 0
+- :test: test_fifo_put_get
+  :line: 15
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 2
+  :passed: 2
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 1.9820209000026807
